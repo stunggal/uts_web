@@ -1,0 +1,177 @@
+.body {
+
+}
+
+.back {
+    background-color: #F5F5F5;
+    height: 1000px;
+}
+
+.header {
+    height: 100px;
+    background-color: #0069C0;
+    padding: 5px;
+}
+
+.temukan {
+    text-decoration: none;
+    color: #ffffff;
+    margin-right: 10px;
+    float: left;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.img {
+    height: 15px;
+    margin right: 3px;
+}
+
+.help {
+    float: right;
+    height: 30px;
+}
+
+.bj {
+    width: 250px;
+    float: left;
+    margin: 10px;
+}
+
+.clbj {
+    margin-left: 0px;
+}
+
+.cari {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+    height: 35px;
+    width: 700px;
+    float: left;
+}
+
+.buletan {
+    float: right;
+    border-radius: 50%;
+    background-color: #0069C0;
+    border: 2px;
+    border-style: solid;
+    border-color: #ffffff;
+}
+
+.search {
+    height: 44px;
+    width: 100px;
+    background-color:  #0069C0;
+    margin-top: 10px;
+
+}
+
+.search img {
+    width: 35px;
+}
+
+.tempat_banner {
+    background-color: #ffffff;
+    height: 260px;
+}
+
+.banner1 {
+    width: 60%;
+    margin-left: 5%;
+    margin-top: 30px;
+    float: left;
+}
+
+.banner2 {
+    width: 29%;
+    float: right;
+    margin-right: 5%;
+    margin-top: 30px;
+}
+
+.banner3 {
+    width: 29%;
+    float: right;
+    margin-right: 5%;
+    margin-top: 5px;
+}
+
+.hurry {
+    background-color: #ffffff;
+    width: 90%;
+    margin-top: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 350px;
+    padding: 30px;
+}
+
+.item {
+    background-color: #e90404;
+    height: 266px;
+    width: 266px;
+    float: left;
+    margin-right: 25px;
+}
+
+.txhurry {
+    margin-bottom: 30px;
+
+}
+
+.divdiitem1 {
+    background-color: #ffffff;
+    width: 266px;
+    height: 200px;
+    background-image: url(JPG/hurrybook/buku2.jpg);
+    background-size: cover;
+}
+
+.divdiitem2 {
+    background-color: #ffffff;
+    width: 266px;
+    height: 200px;
+    background-image: url(JPG/hurrybook/gesper.png);
+    background-size: cover;
+}
+
+.divdiitem3 {
+    background-color: #ffffff;
+    width: 266px;
+    height: 200px;
+    background-image: url(JPG/hurrybook/pulpen.png);
+    background-size: cover;
+}
+
+.divdiitem4 {
+    background-color: #ffffff;
+    width: 266px;
+    height: 200px;
+    background-image: url(JPG/hurrybook/sepatu.png);
+    background-size: cover;
+}
+
+.judul {
+    color: white;
+    height: 66px;
+    width: 266px;
+    background-color: #0069C0;
+}
+.nambar{
+    float: left;
+    font-size: 24px;
+    margin: 2px;
+    width: 200px;
+}
+.status{
+    float: right;
+    font-size: 24px;
+    margin: 2px;
+}
+.harga{
+    font-size: 24px;
+    margin: 2px;
+}

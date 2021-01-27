@@ -1,0 +1,64 @@
+.body {
+    background-color: #F5F5F5;
+}
+
+.header {
+    background-color: #0069C0;
+    height: 70px;
+    width: 100%;
+}
+
+.bj {
+    width: 250px;
+    float: left;
+    margin: 10px;
+    margin-left: 5%;
+}
+
+.lambang {
+    margin-top: 0px;
+}
+
+.lamb {
+    float: left;
+    margin-left: 5%;
+    margin-top: 100px;
+    margin-right: 20px;
+}
+
+.divlogin {
+    background-color: #0069C0;
+    height: 450px;
+    width: 400px;
+    float: right;
+    margin-right: 5%;
+    margin-top: 0px;
+    padding-left: 15px;
+    color: white;
+}
+
+.divlogo {
+    height: 100px;
+    width: 100px;
+    margin-left: 200px;
+    margin-right: 2000px;
+
+}   
+
+.tempat_logo {
+    background-color: #9e9e9e;
+    height: 600px;
+    width: 100%;
+}
+
+.user {
+    width: 90%;
+}
+
+.pass {
+    width: 90%;
+}
+
+..btnlogin {
+    width: 90%;
+}
